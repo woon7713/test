@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Compiled class file
 *.class
 
@@ -23,6 +24,8 @@
 hs_err_pid*
 replay_pid*
 
+=======
+>>>>>>> 19d6631390cd4f6253f301a200658b12a3f2683d
 HELP.md
 .gradle
 build/
@@ -59,4 +62,8 @@ out/
 /.nb-gradle/
 
 ### VS Code ###
+<<<<<<< HEAD
 .vscode/
+=======
+.vscode/
+>>>>>>> 19d6631390cd4f6253f301a200658b12a3f2683d
